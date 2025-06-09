@@ -1,4 +1,7 @@
 # ExamenDist
+
+Pdf con capturas: [Examen1_Nicolalde_Lincango_Suárez.pdf](https://github.com/user-attachments/files/20661732/Examen1_Nicolalde_Lincango_Suarez.pdf)
+
 - Registrar usuarios (nombre y correo).
 
   ![Imagen de WhatsApp 2025-06-09 a las 16 17 07_ff4de3b0](https://github.com/user-attachments/assets/ce6ffd92-1918-4f46-ad1a-bceda5af2ea3)
@@ -22,8 +25,15 @@
   OPCION A: 
 
 - Construir la imagen del contenedor con el nombre “servidor-rmi”
-
+- Una vez que la imagen del contenedor se haya construido correctamente, ejecutar el contenedor del servidor
+  
 ![Imagen de WhatsApp 2025-06-09 a las 16 13 32_f63ff977](https://github.com/user-attachments/assets/ec1882a4-24fa-4b30-91de-b1a132dd6ff0)
+
+
+![Imagen de WhatsApp 2025-06-09 a las 16 52 17_c8ef1d09](https://github.com/user-attachments/assets/5db203f1-6278-440b-8a00-6e189cf254cf)
+
+
+![Imagen de WhatsApp 2025-06-09 a las 16 52 28_b26488f7](https://github.com/user-attachments/assets/ffbecc2d-a1dd-4597-8d7d-76467c131542)
 
 
 - Eduardo Licango, Marlon Nicolalde, Michelle Suarez
